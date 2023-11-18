@@ -1,0 +1,1772 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					121.569433,
+					25.114194
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "雙溪淨水場",
+				"qua_cl": 0.56,
+				"qua_cntu": 0.01,
+				"qua_id": "CS00 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.55231,
+					25.101757
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "衛理女中",
+				"qua_cl": 0.58,
+				"qua_cntu": 0.02,
+				"qua_id": "CS01 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.563886,
+					25.106069
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "雙溪國小 ",
+				"qua_cl": 0.45,
+				"qua_cntu": 0.06,
+				"qua_id": "CS02 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.544384,
+					25.099517
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "華興加壓站",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.1,
+				"qua_id": "CS03 ",
+				"qua_ph": 6.9,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.547873,
+					25.014511
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "長興淨水場",
+				"qua_cl": 0.56,
+				"qua_cntu": 0.02,
+				"qua_id": "CX00 ",
+				"qua_ph": 7.7,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.563997,
+					25.037531
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "市政大樓",
+				"qua_cl": 0.41,
+				"qua_cntu": 0.11,
+				"qua_id": "CX02 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.561975,
+					25.038063
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "市議會",
+				"qua_cl": 0.46,
+				"qua_cntu": 0.03,
+				"qua_id": "CX03 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.54342,
+					25.041477
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "捷運忠孝復興站",
+				"qua_cl": 0.44,
+				"qua_cntu": 0.06,
+				"qua_id": "CX04 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.607462,
+					25.05623
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "南港高工",
+				"qua_cl": 0.48,
+				"qua_cntu": 0.03,
+				"qua_id": "CX05 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.616217,
+					25.048584
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "南港加壓站",
+				"qua_cl": 0.32,
+				"qua_cntu": 0.02,
+				"qua_id": "CX06 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.57391,
+					25.021817
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "挹翠加壓站",
+				"qua_cl": 0.42,
+				"qua_cntu": 0.03,
+				"qua_id": "CX07 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.546714,
+					25.051571
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "敦化國中 ",
+				"qua_cl": 0.54,
+				"qua_cntu": 0.01,
+				"qua_id": "CX08 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.566774,
+					25.031839
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "信義運動中心",
+				"qua_cl": 0.49,
+				"qua_cntu": 0.02,
+				"qua_id": "CX09 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.591372,
+					25.045883
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "南港公園加壓站",
+				"qua_cl": 0.42,
+				"qua_cntu": 0.02,
+				"qua_id": "CX10 ",
+				"qua_ph": 7.1,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.545733,
+					25.020576
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "大安運動中心",
+				"qua_cl": 0.59,
+				"qua_cntu": 0.02,
+				"qua_id": "CX11 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.58184,
+					25.048938
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "南港運動中心",
+				"qua_cl": 0.51,
+				"qua_cntu": 0.02,
+				"qua_id": "CX12 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.530253,
+					25.013286
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "公館淨水場",
+				"qua_cl": 0.57,
+				"qua_cntu": 0.03,
+				"qua_id": "GG00 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.517878,
+					25.046309
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "捷運台北車站",
+				"qua_cl": 0.54,
+				"qua_cntu": 0.03,
+				"qua_id": "GG01 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.518269,
+					25.032422
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "捷運中正紀念堂站",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.06,
+				"qua_id": "GG02 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.498835,
+					25.029107
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "萬華國中",
+				"qua_cl": 0.51,
+				"qua_cntu": 0.02,
+				"qua_id": "GG03 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.493406,
+					25.034988
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "華江社區配水池",
+				"qua_cl": 0.45,
+				"qua_cntu": 0.03,
+				"qua_id": "GG04 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.531533,
+					25.042927
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "忠孝國小",
+				"qua_cl": 0.51,
+				"qua_cntu": 0.01,
+				"qua_id": "GG06 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.514332,
+					25.025075
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "螢橋國小",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.07,
+				"qua_id": "GG07 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.519379,
+					25.038243
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "中正運動中心",
+				"qua_cl": 0.56,
+				"qua_cntu": 0.04,
+				"qua_id": "GG08 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.507085,
+					25.047349
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "萬華運動中心",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.04,
+				"qua_id": "GG09 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.528706,
+					24.941926
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "直潭淨水場 ",
+				"qua_cl": 0.62,
+				"qua_cntu": 0.02,
+				"qua_id": "JT00 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.543443,
+					24.930234
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "伸仗板配水池",
+				"qua_cl": 0.61,
+				"qua_cntu": 0.03,
+				"qua_id": "JT02 ",
+				"qua_ph": 7.1,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.520562,
+					24.989242
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "中和加壓站",
+				"qua_cl": 0.64,
+				"qua_cntu": 0.04,
+				"qua_id": "JT10 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.509409,
+					24.961604
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "安康加壓站",
+				"qua_cl": 0.59,
+				"qua_cntu": 0.02,
+				"qua_id": "JT11 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.51542,
+					25.012836
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "頂溪站",
+				"qua_cl": 0.51,
+				"qua_cntu": 0.03,
+				"qua_id": "JT12 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.501594,
+					24.999939
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "中和國小",
+				"qua_cl": 0.57,
+				"qua_cntu": 0.03,
+				"qua_id": "JT13 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.481461,
+					24.99916
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "積穗國小",
+				"qua_cl": 0.48,
+				"qua_cntu": 0.05,
+				"qua_id": "JT14 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.5418,
+					24.9831
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "捷運大坪林站",
+				"qua_cl": 0.56,
+				"qua_cntu": 0.02,
+				"qua_id": "JT15 ",
+				"qua_ph": 7.1,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.541973,
+					24.969335
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "十二張加壓站",
+				"qua_cl": 0.58,
+				"qua_cntu": 0.03,
+				"qua_id": "JT16 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.556175,
+					24.980737
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "景美女中",
+				"qua_cl": 0.38,
+				"qua_cntu": 0.02,
+				"qua_id": "JT17 ",
+				"qua_ph": 7.0,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.581036,
+					24.998347
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "木柵動物園",
+				"qua_cl": 0.53,
+				"qua_cntu": 0.42,
+				"qua_id": "JT18 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.528744,
+					25.011749
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "公館加壓站",
+				"qua_cl": 0.6,
+				"qua_cntu": 0.02,
+				"qua_id": "JT20 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.566371,
+					25.002893
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "萬芳二號配水池",
+				"qua_cl": 0.46,
+				"qua_cntu": 0.03,
+				"qua_id": "JT21 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.581084,
+					24.977164
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "指南二加壓站",
+				"qua_cl": 0.48,
+				"qua_cntu": 0.03,
+				"qua_id": "JT22 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.586405,
+					24.987187
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "木柵二期配水池",
+				"qua_cl": 0.4,
+				"qua_cntu": 0.05,
+				"qua_id": "JT23 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.493942,
+					25.063185
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "三重加壓站",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.03,
+				"qua_id": "JT24 ",
+				"qua_ph": 7.1,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.489687,
+					25.087331
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "新北高中",
+				"qua_cl": 0.38,
+				"qua_cntu": 0.04,
+				"qua_id": "JT25 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.587747,
+					24.966246
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "指南六加壓站",
+				"qua_cl": 0.42,
+				"qua_cntu": 0.1,
+				"qua_id": "JT26 ",
+				"qua_ph": 7.8,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.528053,
+					25.068617
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "大同加壓站",
+				"qua_cl": 0.57,
+				"qua_cntu": 0.02,
+				"qua_id": "JT30 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.575688,
+					25.081617
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "麗山國中",
+				"qua_cl": 0.44,
+				"qua_cntu": 0.02,
+				"qua_id": "JT31 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.517998,
+					25.075981
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "重慶國中",
+				"qua_cl": 0.43,
+				"qua_cntu": 0.05,
+				"qua_id": "JT32 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.471272,
+					25.108086
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "台北海洋技術學院",
+				"qua_cl": 0.44,
+				"qua_cntu": 0.03,
+				"qua_id": "JT33 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.556437,
+					25.056412
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "介壽國中",
+				"qua_cl": 0.53,
+				"qua_cntu": 0.06,
+				"qua_id": "JT34 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.52257,
+					25.094366
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "士林國中",
+				"qua_cl": 0.48,
+				"qua_cntu": 0.06,
+				"qua_id": "JT35 ",
+				"qua_ph": 7.1,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.517131,
+					25.09184
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "陽明高中",
+				"qua_cl": 0.42,
+				"qua_cntu": 0.05,
+				"qua_id": "JT36 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.515559,
+					25.114523
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "捷運石牌站",
+				"qua_cl": 0.44,
+				"qua_cntu": 0.03,
+				"qua_id": "JT37 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.533302,
+					25.120117
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "天母加壓站",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.03,
+				"qua_id": "JT38 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.466879,
+					25.126886
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "關渡國小",
+				"qua_cl": 0.49,
+				"qua_cntu": 0.06,
+				"qua_id": "JT39 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.445718,
+					25.167895
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "捷運淡水站",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.06,
+				"qua_id": "JT40 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.504297,
+					25.146133
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "大屯配水池",
+				"qua_cl": 0.47,
+				"qua_cntu": 0.03,
+				"qua_id": "JT41 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.501415,
+					25.118941
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "北投加壓站",
+				"qua_cl": 0.53,
+				"qua_cntu": 0.03,
+				"qua_id": "JT42 ",
+				"qua_ph": 7.1,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.567763,
+					25.064844
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "松山加壓站",
+				"qua_cl": 0.58,
+				"qua_cntu": 0.02,
+				"qua_id": "JT50 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.623545,
+					25.078675
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "內溝里加壓站",
+				"qua_cl": 0.54,
+				"qua_cntu": 0.04,
+				"qua_id": "JT51 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.581401,
+					25.05947
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "潭美國小",
+				"qua_cl": -9.0,
+				"qua_cntu": -9.0,
+				"qua_id": "JT52 ",
+				"qua_ph": -9.0,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.619542,
+					25.072174
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "東湖國中",
+				"qua_cl": 0.49,
+				"qua_cntu": 0.07,
+				"qua_id": "JT53 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.554683,
+					25.059159
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "民生加壓站",
+				"qua_cl": 0.56,
+				"qua_cntu": 0.02,
+				"qua_id": "JT54 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.557859,
+					24.988296
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "興隆公營住宅1區",
+				"qua_cl": 0.48,
+				"qua_cntu": 0.03,
+				"qua_id": "JT55 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.599911,
+					25.072953
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "內湖四期加壓站",
+				"qua_cl": 0.51,
+				"qua_cntu": 0.05,
+				"qua_id": "JT56 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.550445,
+					25.04847
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "松山運動中心",
+				"qua_cl": 0.57,
+				"qua_cntu": 0.04,
+				"qua_id": "JT57 ",
+				"qua_ph": 7.1,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.549978,
+					25.050782
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "台北小巨蛋",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.02,
+				"qua_id": "JT58 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.559673,
+					24.99701
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "文山運動中心",
+				"qua_cl": 0.51,
+				"qua_cntu": 0.03,
+				"qua_id": "JT59 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.518831,
+					24.95931
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "安華加壓站",
+				"qua_cl": 0.64,
+				"qua_cntu": 0.03,
+				"qua_id": "JT60 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.521353,
+					25.054793
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "中山運動中心",
+				"qua_cl": 0.57,
+				"qua_cntu": 0.03,
+				"qua_id": "JT61 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.516311,
+					25.06523
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "大同運動中心",
+				"qua_cl": 0.5,
+				"qua_cntu": 0.02,
+				"qua_id": "JT62 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.515091,
+					25.066044
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "大同區公所",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.02,
+				"qua_id": "JT63 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.575204,
+					25.078116
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "內湖運動中心",
+				"qua_cl": 0.49,
+				"qua_cntu": 0.04,
+				"qua_id": "JT64 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.60913,
+					25.073629
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "東湖加壓站",
+				"qua_cl": 0.52,
+				"qua_cntu": 0.03,
+				"qua_id": "JT65 ",
+				"qua_ph": 7.4,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.589318,
+					25.091995
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "碧山里2加壓站",
+				"qua_cl": 0.44,
+				"qua_cntu": 0.06,
+				"qua_id": "JT66 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.557686,
+					25.085808
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "西康里加壓站",
+				"qua_cl": 0.46,
+				"qua_cntu": 0.06,
+				"qua_id": "JT67 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.501447,
+					24.94612
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "台北小城3加壓站",
+				"qua_cl": 0.37,
+				"qua_cntu": 0.07,
+				"qua_id": "JT68 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.509747,
+					25.116687
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "北投運動中心",
+				"qua_cl": 0.47,
+				"qua_cntu": 0.03,
+				"qua_id": "JT69 ",
+				"qua_ph": 7.0,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.521541,
+					25.089359
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "士林運動中心",
+				"qua_cl": 0.5,
+				"qua_cntu": 0.03,
+				"qua_id": "JT70 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.566496,
+					25.054462
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "健康公宅1區",
+				"qua_cl": 0.55,
+				"qua_cntu": 0.02,
+				"qua_id": "JT71 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.567467,
+					25.054507
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "健康公宅2區",
+				"qua_cl": -9.0,
+				"qua_cntu": -9.0,
+				"qua_id": "JT72 ",
+				"qua_ph": -9.0,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.588011,
+					25.098712
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "碧山里4加壓站",
+				"qua_cl": 0.37,
+				"qua_cntu": 0.09,
+				"qua_id": "JT73 ",
+				"qua_ph": 7.7,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.634263,
+					25.034475
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "舊庄二加壓站",
+				"qua_cl": 0.41,
+				"qua_cntu": 0.04,
+				"qua_id": "JT74 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.574786,
+					25.085611
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "麗山加壓站",
+				"qua_cl": 0.46,
+				"qua_cntu": 0.03,
+				"qua_id": "JT75 ",
+				"qua_ph": 7.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.493871,
+					24.951364
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "玫瑰一加壓站",
+				"qua_cl": 0.48,
+				"qua_cntu": 0.04,
+				"qua_id": "JT76 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.510014,
+					25.140684
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "北投第一配水池",
+				"qua_cl": 0.45,
+				"qua_cntu": 0.04,
+				"qua_id": "JT77 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.562466,
+					24.987939
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "興隆公宅2區",
+				"qua_cl": 0.47,
+				"qua_cntu": 0.03,
+				"qua_id": "JT78 ",
+				"qua_ph": 7.2,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.486149,
+					25.121289
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "大度加壓站",
+				"qua_cl": 0.54,
+				"qua_cntu": 0.02,
+				"qua_id": "JT80 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.532248,
+					25.151214
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "陽明淨水場",
+				"qua_cl": 0.57,
+				"qua_cntu": 0.03,
+				"qua_id": "YM00 ",
+				"qua_ph": 7.7,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.525111,
+					25.146347
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "隧道 ",
+				"qua_cl": 0.56,
+				"qua_cntu": 0.09,
+				"qua_id": "YM01 ",
+				"qua_ph": 8.0,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.543536,
+					25.151813
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "中正路配水池 ",
+				"qua_cl": 0.51,
+				"qua_cntu": 0.07,
+				"qua_id": "YM02 ",
+				"qua_ph": 6.5,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.552672,
+					25.155813
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "中山樓 ",
+				"qua_cl": 0.56,
+				"qua_cntu": 0.09,
+				"qua_id": "YM03 ",
+				"qua_ph": 7.3,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.555752,
+					25.183375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "鹿角坑(三加)",
+				"qua_cl": 0.58,
+				"qua_cntu": 0.5,
+				"qua_id": "YM04 ",
+				"qua_ph": 7.9,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.524364,
+					25.149216
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "泉源國小",
+				"qua_cl": 0.34,
+				"qua_cntu": 0.14,
+				"qua_id": "YM05 ",
+				"qua_ph": 7.0,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					121.53337,
+					25.128252
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"code_name": "三角埔加壓站",
+				"qua_cl": 0.55,
+				"qua_cntu": 0.06,
+				"qua_id": "YM06 ",
+				"qua_ph": 7.0,
+				"update_date": "2023-11-18",
+				"update_time": "09:30:00"
+			},
+			"type": "Feature"
+		}
+	]
+}

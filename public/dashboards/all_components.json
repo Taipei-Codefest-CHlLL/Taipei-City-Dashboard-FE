@@ -4077,6 +4077,119 @@
 				"https://github.com/tpe-doit/YouBike-Optimization"
 			],
 			"contributors": ["tuic"]
+		},
+		"201": {
+			"id": 201,
+			"index": "water-quality",
+			"map_config": [
+				{
+					"index": "water-quality",
+					"paint": {
+						"circle-color": "#86e9f6"
+					},
+					"property": [
+						{
+							"key": "code_name",
+							"name": "監測站名稱"
+						},
+						{
+							"key": "qua_id",
+							"name": "監控站ID"
+						},
+						{
+							"key": "qua_cntu",
+							"name": "濁度"
+						},
+						{
+							"key": "qua_ph",
+							"name": "PH值"
+						},
+						{
+							"key": "qua_cl",
+							"name":"餘氯"
+						},
+						{
+							"key": "update_date",
+							"name":"更新日期"
+						}
+					],
+					"type": "circle",
+					"size":"big",
+					"title": "水質檢測"
+				}
+			],
+			"chart_config": {
+				"unit":"",
+				"column_independent": true,
+				"types": ["HeatmapColumnChart"],
+				"categories": [
+					"北投區",
+					"士林區",
+					"內湖區",
+					"南港區",
+					"松山區",
+					"信義區",
+					"中山區",
+					"大同區",
+					"中正區",
+					"萬華區",
+					"大安區",
+					"文山區"
+				],
+				"color": [
+					"#b9b929",
+					"#87a11a",
+					"#87a11a",
+					"#568811",
+					"#568811",
+					"#568811",
+					"#568811",
+					"#568811",
+					"#568811",
+					"#568811",
+					"#568811",
+					"#568811",
+					"#236e0c",
+					"#236e0c",
+					"#236e0c",
+					"#236e0c",
+					"#236e0c",
+					"#236e0c",
+					"#236e0c",
+					"#666666"
+				],
+				"map_filter": [
+					"TOWNNAME_origin",
+					[
+						"北投區",
+						"士林區",
+						"內湖區",
+						"南港區",
+						"松山區",
+						"信義區",
+						"中山區",
+						"大同區",
+						"中正區",
+						"萬華區",
+						"大安區",
+						"文山區"
+					]
+				]
+			},
+			"name": "水質檢測",
+			"source": "資訊局",
+			"time_from": "2023-07-28T00:00:00+08:00",
+			"time_to": null,
+			"short_desc": "",
+			"long_desc": "展示YouBike未設站區域的潛在需求，詳細預測方法可參考開源成果Github。資料來源為臺北大數據中心研究，更新頻率不定期。",
+			"use_case": "本組件可讓您掌握目前未設站地區，以及該地區可能有多少需求。這有助於規劃YouBike的擴展，並規劃適當的資源以滿足日益增長的需求。",
+			"tags": [],
+			"links": [
+				"https://tuic.gov.taipei/youbike",
+				"https://github.com/tpe-doit/YouBike-Optimization"
+			],
+			"contributors": ["tuic"]
 		}
 	}
 }
+
