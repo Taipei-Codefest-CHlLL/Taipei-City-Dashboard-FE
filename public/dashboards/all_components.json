@@ -5340,11 +5340,13 @@
 				}
 			],
 			"chart_config": {
-				"types": ["TimelineSeparateChartCustom"],
+				"types": ["TimelineSeparateChartCustom","MapSlideBar"],
 				"color": [
-					"#00ffa2","#00fff7","#00ccff","#0088ff","#0008ff","#4d00ff","#a200ff","#ff00b2","#ff0008","#ffa200","#fff700","#b2ff00"
+					"#F65658","#F49F36","#F5C860","#9AC17C","#4CB495","#569C9A","#60819C","#2F8AB1","#F65658","#F49F36","#F5C860","#9AC17C"
 				],
 				"map_filter": [
+					"year",
+					[2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005]
 				],
 				"unit": "公噸",
 				"tooltipTimeFormat": "YYYY-MM"
