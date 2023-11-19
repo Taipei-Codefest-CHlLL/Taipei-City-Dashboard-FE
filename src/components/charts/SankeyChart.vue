@@ -40,8 +40,8 @@ const dialogCardComponent = defineComponent({
 	template: `
 		<div class="card">
 			<div class="card-body">
-				<h6 class="card-subtitle mb-2 text-muted">{{ title }}</h6>
-				<h5 class="card-title center">{{ subtitle }}{{ unit }}</h5>
+				<p class="card-subtitle mb-2 text-muted">{{ title }}</p>
+				<p class="card-title center">{{ subtitle }}{{ unit }}</p>
 			</div>
 		</div>
 	`,
@@ -187,7 +187,7 @@ const svgRectComponent = defineComponent({
 
 
 const chartHeight = computed(() => {
-	return `${40 + props.series.length * 24}`;
+	return `${40 + props.series.length * 20}px`;
 });
 
 
@@ -532,7 +532,7 @@ function createSankey(data){
 				mousePosition.value.y = e.target.getBoundingClientRect().y;
 
 				// set dialog data
-				targetDialog.value.title = `${from} -> ${to}`;
+				targetDialog.value.title = `${from} → ${to}`;
 				targetDialog.value.real_weight = data[i].real_weight.toFixed(2);
 				targetDialog.value.negative = data[i].negative;
 
@@ -795,12 +795,6 @@ function createSankey(data){
 				
 				
 			</svg>
-			<div v-if="showTooltip" >
-				<h1>測試 ouo</h1>
-			</div>
-			<div v-if="1" >
-				<h1>測試 aaa</h1>
-			</div>
 
 			<dialogCardComponent v-if="showTooltip" :title="targetDialog.title" :subtitle="targetDialog.real_weight" :style="tooltipPosition">
 			</dialogCardComponent>
@@ -821,15 +815,15 @@ function createSankey(data){
 .card {
 	position: fixed;
 	border: none;
-	border-radius: 7px;
-	background-color: #485159;
+	border-radius: 5px;
+	background-color: #212121;
 	color: white;
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 	z-index: 99999;
 }
 
 .card-body {
-	padding: 0.5rem 1rem;
+	padding: 5px;
 }
 
 .card-title {
@@ -838,7 +832,7 @@ function createSankey(data){
 
 .card-subtitle {
 	font-size: 0.8rem;
-	color: #dadde3;
+	color: #757576;
 }
 
 
