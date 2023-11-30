@@ -4,8 +4,8 @@
 	"version": "1.0.0",
 	"type": "module",
 	"scripts": {
-		"start": "vite",
-		"dev": "vite",
+		"start": "bun --bun vite",
+		"dev": "bun --bun vite",
 		"build": "eslint --fix --ext .js,.vue . && vite build",
 		"lint": "eslint --fix --ext .js,.vue . && cd public && tar zcfv mapData.tar.gz mapData && cd .",
 		"test": "vitest run --dom",
